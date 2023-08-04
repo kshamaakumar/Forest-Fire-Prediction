@@ -9,4 +9,4 @@ Part 2: Build a web app on Django
 
 Part 3: Deploy the app on Heroku
 
-* Created as part of learning/completing the udemy course "Data Science Mega-Course: #Build {60-Projects In 60-Days}"
+Note: Created as part of learning/completing the udemy course "Data Science Mega-Course: #Build {60-Projects In 60-Days}"
