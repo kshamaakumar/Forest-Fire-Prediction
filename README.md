@@ -1,1 +1,2 @@
-# Forest-Fire-Prediction
+### Forest Fire Prediction
+###### Django App -Deploy On Heroku
